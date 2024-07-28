@@ -1,1 +1,1 @@
-js hw 02 start
+JavaScript hw-02 start
